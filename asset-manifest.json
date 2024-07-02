@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https;//dusndjnks.github.io/CatFact/static/css/main.724dca7d.css",
+    "main.js": "/https;//dusndjnks.github.io/CatFact/static/js/main.059ea8a0.js",
+    "index.html": "/https;//dusndjnks.github.io/CatFact/index.html",
+    "main.724dca7d.css.map": "/https;//dusndjnks.github.io/CatFact/static/css/main.724dca7d.css.map",
+    "main.059ea8a0.js.map": "/https;//dusndjnks.github.io/CatFact/static/js/main.059ea8a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.724dca7d.css",
+    "static/js/main.059ea8a0.js"
+  ]
+}
