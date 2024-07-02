@@ -11,13 +11,6 @@ function App() {
   },[])
   return (
     <div className="App h-screen gap-10 flex flex-col justify-center items-center bg-slate-300">
-      {/* <div className="bg-black text-white  px-5 py-2 text-3xl">
-        <span className="loading-text-words">C</span>
-        <span className="loading-text-words">L</span>
-        <span className="loading-text-words">I</span>
-        <span className="loading-text-words">C</span>
-        <span className="loading-text-words">K</span>
-      </div> */}
       <div className="">
       <button className="bg-black text-white px-3 py-1 text-3xl font-semibold  rounded-lg" onClick={fetchData}>Click</button>
       </div>
